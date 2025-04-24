@@ -96,3 +96,8 @@ Species extinction continues at an alarming rate due to habitat loss, climate ch
 - Develop **real-time monitoring systems**
 - Collaborate with **wildlife NGOs** and data providers
 - Extend to endangered species tracking across time
+
+  ---
+
+  #### Data Source
+  - From Kaggle https://www.kaggle.com/datasets/kennyloic/animal-species-data
